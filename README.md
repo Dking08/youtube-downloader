@@ -147,3 +147,5 @@ https://github.com/Athlon1600/youtube-downloader/pull/25#issuecomment-439373506
 - Add ability to download video and audio streams separately, and merge the two together using ffmpeg. Just like `youtube-dl` does!  
 - Optional command that finds ALL video formats.
 - ~~Fetch additional metadata about the video without using YouTube API.~~
+
+change
